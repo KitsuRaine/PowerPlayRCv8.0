@@ -18,7 +18,6 @@ import org.firstinspires.ftc.teamcode.rasky.utilities.Gyroscope;
  * @author Lucian
  * @version 1.2
  */
-
 @TeleOp(name = "Main Driving", group = Constants.mainGroup)
 public class MainDrivingOp extends LinearOpMode {
 
